@@ -10,7 +10,7 @@
 <ins>HONKAI: STAR RAIL ೨</ins>
 <p align="center">618566403</p>
 
-<img width="128" height="11" alt="1000072128" src="https://github.com/user-attachments/assets/330784b1-6d05-45b2-bd00-00a308b70d93" />  ㅤㅤhollyberry server
+<img width="128" height="11" alt="1000072128" src="https://github.com/user-attachments/assets/330784b1-6d05-45b2-bd00-00a308b70d93" />  ㅤ hollyberry server
 
 <ins>COOKIE RUN KINGDOM ೨</ins>
 <p align="center">SGQCC4934</p>
