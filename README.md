@@ -22,4 +22,4 @@
 
 ___
 
-~(finalmente le metieron width y height de las imágenes vamoooss)~
+~(finalmente le metieron width y height las imágenes vamoooss)~
